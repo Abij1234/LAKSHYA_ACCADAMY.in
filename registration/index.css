@@ -1,0 +1,70 @@
+body{
+background-image: url("img/background.jpeg");
+background-attachment: fixed;
+background-size: cover;
+}
+
+.head{
+color: blue;
+margin: 1px 200px 1px 450px;
+font-size: 25px;
+white-space: nowrap;
+}
+
+.loc{
+color: #000000;
+margin-left: 300px;
+white-space: nowrap;
+font-size: 35px;
+}
+
+.img{
+height: 400px;
+width: 490px;
+margin: 1px 580px 1px 350px;
+}
+
+.moral{
+color: #240ee8;
+border: 10px;
+border-width: 100px;
+border-radius: 7px;
+background: orange;
+text-align: center;
+margin-left: 30px;
+}
+
+#container{
+margin: 80px 100px 1px 200px;
+font-size: 45px;
+white-space: nowrap;
+display: flex;
+}
+
+.btn{
+font-size: 40px;
+color: white;
+background-color: blue;
+}
+
+.no{
+border: 5px;
+border-radius: 7px;
+background-color: white;
+color: blue;
+font-size: 25px;
+margin-left: 50px;
+}
+
+.design{
+margin: 2px 200 2px 200px;;
+color: black;
+}
+
+.terms{
+color: black;
+}
+
+.batchman{
+margin-left: 560px;
+}
